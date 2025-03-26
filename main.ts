@@ -1,3 +1,3 @@
 function main() {
-    console.log("Всем привет!")
+    console.log("Всем пока!")
 }
