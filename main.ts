@@ -1,3 +1,7 @@
 function main() {
-    console.log("ВСЕМ ПОКА!")
+    log("ВСЕМ ПОКА!")
+}
+
+function log(text) {
+    console.log(text)
 }
